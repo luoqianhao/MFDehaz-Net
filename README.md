@@ -13,7 +13,7 @@ For such a purpose, an effective image dehazing model named MFDehaz-Net is propo
 
 ### Main Results
 
-![Performance](figs/results.png)
+![Performance](figs/result.png)
 
 ### Some information
 
